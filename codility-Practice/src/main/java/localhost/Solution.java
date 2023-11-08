@@ -8,6 +8,8 @@ import java.util.Arrays;
 //System.out.println("this is a debug message");
 
 /*
+	Java 8
+	https://app.codility.com/c/run/demoVYE85H-QBZ/
 This is a demo task.
 Write a function:
     class Solution { public int solution(int[] A); }
